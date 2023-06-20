@@ -1,0 +1,3 @@
+# UNIR_yolo_grape_detection
+A repo containing the different scripts used for the detection of grapes in vineyards using yolo networks.
+🏗️ Work in progress...
