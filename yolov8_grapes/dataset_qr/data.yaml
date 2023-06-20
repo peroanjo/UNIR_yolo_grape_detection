@@ -1,0 +1,13 @@
+train: /content/dataset_qr/dataset_qr/train/images
+val: /content/dataset_qr/dataset_qr/valid/images
+test: /content/dataset_qr/dataset_qr/test/images
+
+nc: 1
+names: ['QR']
+
+roboflow:
+  workspace: unir-wggaj
+  project: qr_grapes
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/unir-wggaj/qr_grapes/dataset/1
